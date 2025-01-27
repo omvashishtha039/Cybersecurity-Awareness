@@ -11,7 +11,7 @@ This project is a cybersecurity awareness campaign designed to educate users on:
 
 ## Technologies Used
 - HTML, CSS, JavaScript (for the website).
-- Canva/Figma (for infographics).
+- Canva (for infographics).
 - Markdown (for this README).
 
 ## How to Use
